@@ -1,0 +1,15 @@
+# Secretos y entornos — NUNCA subir
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials*
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
